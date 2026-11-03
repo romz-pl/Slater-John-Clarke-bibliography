@@ -1,6 +1,6 @@
-# Slater John Clarke bibliography
+# John Clarke Slater
 
-John Clarke Slater (1900–1976) was an American theoretical physicist whose work helped build the quantum-mechanical framework for atoms, molecules, and solids. He was one of the most influential theorists of his generation in condensed-matter and molecular physics, and he is remembered for both his mathematical tools and his textbooks.
+**John Clarke Slater (1900–1976)** was an American theoretical physicist whose work helped build the quantum-mechanical framework for atoms, molecules, and solids. He was one of the most influential theorists of his generation in condensed-matter and molecular physics, and he is remembered for both his mathematical tools and his textbooks.
 
 ## Early Life and Education
 
@@ -32,14 +32,26 @@ Slater's contributions are numerous, and several of them remain standard tools i
 
 **Slater–Koster tight-binding scheme (1954).** With George Koster, Slater introduced a widely used parameterization of the tight-binding method for electronic band structure. The Slater–Koster approach expresses the matrix elements between atomic-like orbitals in terms of a small set of two-center integrals, making it practical to compute band structures of crystals. It remains a standard tool in solid-state physics.
 
+
 ## Books
 
 Slater wrote several textbooks that shaped how generations of physicists learned quantum mechanics and solid-state theory.
 
 *Quantum Theory of Matter* (1951) is a broad introduction to quantum mechanics and its applications to solids. *Quantum Theory of Atomic Structure* (two volumes, 1960) is a detailed treatment of atomic physics, including the Slater methods and the rules for many-electron systems. *Solid-State and Molecular Theory: A Scientific Biography* (1975) reflects on his own research path while presenting a unified view of the subject. His writing is known for clarity and for connecting formal theory to physical intuition.
 
-## Legacy
-
-Slater's legacy operates on several levels. Many of his concepts, including Slater determinants, STOs, the Slater rules, and the Slater–Koster scheme, are embedded so deeply in physics and chemistry that they are used routinely without much thought about their origin. His X-alpha method connects directly to the development of density functional theory, which later earned a Nobel Prize in Chemistry. His textbooks trained a generation of researchers, and he is remembered as a physicist who combined rigorous theory with a strong sense of how the mathematics maps onto materials and molecules.
-
-If you are looking into a specific area, such as his work on the Hartree–Fock–Slater method, the Slater–Pauling rule, or his wartime radar research, I can go deeper into any of them. For precise dates, honors, and publication details, the biographical memoirs of the National Academy of Sciences and his own writings would be the best sources to check.
+1. Slater, J. C.; N. H. Frank (1933). **Introduction to Theoretical Physics**. New York: McGraw-Hill. ISBN 978-0-07-058090-9.
+2. Slater, J. C.; N. H. Frank (1947). **Mechanics**. New York: McGraw-Hill. ISBN 978-0-313-24064-5.
+3. Slater, J. C.; N. H. Frank (1947). **Electromagnetism**. New York: McGraw-Hill.[98]
+4. Slater, J. C. (1950). **Microwave Electronics**. New York: Van Nostrand.
+5. Slater, J. C. (1951); **Quantum Theory of Matter** (1st ed.) New York: McGraw-Hill File:Quantum theory of matter, by John C. Slater, 1951.pdf
+6. Slater, J. C. (1955). **Modern Physics**. New York: McGraw-Hill.
+7. Slater, J. C. (1939). **Introduction to Chemical Physics**. New York: Dover. ISBN 978-0-486-62562-1.
+8. Slater, J. C. (1959). **Microwave Transmission**. New York: Dover.
+9. Slater, J. C. (1960). **Quantum Theory of Atomic Structure**. New York: McGraw-Hill.
+10. Slater, J. C. (1968). **Quantum Theory of Matter** (2nd ed.). New York: McGraw-Hill. ISBN 978-0-88275-553-3.
+11. Slater, J. C. (1963–74). **Quantum Theory of Molecules and Solids, Vol. 1: Electronic Structure of Molecules**. New York: McGraw-Hill.
+12. Slater, J. C. (1963–74). **Quantum Theory of Molecules and Solids, Vol. 2: Symmetry and Energy Bands in Crystals**. New York: McGraw-Hill.
+13. Slater, J. C. (1963–74). **Quantum Theory of Molecules and Solids, Vol. 3: Insulators, Semiconductors, and Metals**. New York: McGraw-Hill.
+14. Slater, J. C. (1963–74). **Quantum Theory of Molecules and Solids, Vol. 4: The Self-Consistent Field for Molecules and Solids**. New York: McGraw-Hill.
+15. Slater, J. C. (1975). **Solid-State and Molecular Theory: A Scientific Biography**. New York: Wiley. ISBN 978-0-471-79681-7.
+16. Slater, J. C. (1979). **The Calculation of Molecular Orbitals**. New York: Wiley. ISBN 978-0-471-03181-9.
